@@ -38,7 +38,7 @@
 	  - カラー画像をGrayScale画像に変換する。
 
 ```
-![txt](img/block_ref/uma_filtergenerator_bgrtograyio.png)
+![txt](img/block_ref/uma_filtergenerator_grayscaleio.png)
 
 
 ### Threshold Filter Block
@@ -84,6 +84,40 @@
 
 ```
 ![txt](img/block_ref/uma_filtergenerator_medianio.png)
+
+
+### CircleSelection Filter Block
+
+```eval_rst
+.. list-table:: CircleSelection Filter
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/uma_filtergenerator_ellipseRegionSelectoion.png
+      - 入力された画像を円形にトリミングする。
+
+```
+![txt](img/block_ref/uma_filtergenerator_check_circleio.png)
+
+
+### RectangleSelection Filter Block
+
+```eval_rst
+.. list-table:: RectangleSelection Filter
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/uma_filtergenerator_rectangle.png
+	  - 入力された画像を四角形にトリミングする。
+
+```
+![txt](img/block_ref/uma_filtergenerator_check_circleio.png)
+
+
+
+
 
 
 
