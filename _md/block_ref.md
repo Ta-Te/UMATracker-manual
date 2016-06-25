@@ -135,5 +135,34 @@
 ## Operator
 
 ## Morphology
+### Erosion Filter Block
+
+```eval_rst
+.. list-table:: Erosion Filter
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/morphology/uma_filtergenerator_erosion.png
+	  - それぞれの画素の周辺に白い画素があれば白色に置き換える。
+
+```
+![txt](img/block_ref/morphology/uma_filtergenerator_erosionio.png)
+
+### Dilation Filter Block
+
+```eval_rst
+.. list-table:: Dilation Filter
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/morphology/uma_filtergenerator_dilation.png
+	  - それぞれの画素の周辺の画素と同じいろにそろえる
+
+```
+![txt](img/block_ref/morphology/uma_filtergenerator_dilationio.png)
+
+
 
 ## Variables
