@@ -198,9 +198,65 @@
 ```
 ![txt](img/block_ref/mask/uma_filtergenerator_circleio.png)
 
+### Rectangle Mask Block
+
+```eval_rst
+.. list-table:: RectangleMaskBlock
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/mask/uma_filtergenerator_rectangle.png
+	  - 白い四角形の画像を出力するブロック
+
+```
+![txt](img/block_ref/mask/uma_filtergenerator_rectangleio.png)
 
 
 ## Operator
+### AbsDiff Block
+
+```eval_rst
+.. list-table:: AbsDiff Block
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/operator/uma_filtergenerator_absdiff.png
+	  - 二つの画像を入力すると、その差が出力される。
+
+```
+![txt](img/block_ref/operator/uma_filtergenerator_absdiffio.png)
+
+
+### And Block
+
+```eval_rst
+.. list-table:: And Block
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/operator/uma_filtergenerator_and.png
+	  - 二つの画像に対しAndを計算し出力する
+
+```
+![txt](img/block_ref/operator/uma_filtergenerator_andio.png)
+
+### Or Block
+
+```eval_rst
+.. list-table:: Or Block
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/operator/uma_filtergenerator_or.png
+	  - 二つの画像に対しOrを計算し出力する
+
+```
+![txt](img/block_ref/operator/uma_filtergenerator_orio.png)
+
 
 ## Morphology
 ### Erosion Filter Block
