@@ -13,7 +13,7 @@
 
     * - Block
       - Description
-    * - .. image:: img/quick/uma_filtergenerator_colorfilter.png
+    * - .. image:: img/block_ref/uma_filtergenerator_colorfilter.png
       - 左のカラーパレットで色を選択し右の類似度（数値）を調整することで色を選択する．
 ```
 ![txt](img/block_ref/uma_filtergenerator_colorfilterio.png)
@@ -26,7 +26,7 @@
 ```eval_rst
 .. youtube:: https://www.youtube.com/watch?v=3ktUtdCrQzk
 ```
-### Color Filter Block
+### GrayScale Filter Block
 
 ```eval_rst
 .. list-table:: ColorFilter
