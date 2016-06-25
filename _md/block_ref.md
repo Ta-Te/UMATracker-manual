@@ -28,7 +28,7 @@
 
 
 ## BGR Image
-### AbsDiff Block
+### BGR AbsDiff Block
 
 ```eval_rst
 .. list-table:: AbsDiff Block
