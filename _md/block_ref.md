@@ -13,10 +13,10 @@
 
     * - Block
       - Description
-    * - .. image:: img/block_ref/uma_filtergenerator_colorfilter.png
+    * - .. image:: img/block_ref/filter/uma_filtergenerator_colorfilter.png
       - 左のカラーパレットで色を選択し右の類似度（数値）を調整することで色を選択する．
 ```
-![txt](img/block_ref/uma_filtergenerator_colorfilterio.png)
+![txt](img/block_ref/filter/uma_filtergenerator_colorfilterio.png)
 
 ```eval_rst
 .. note:: ColorFilterブロックを選択後，『入力画面』上の抽出したい色の部分をクリックすることで色を選択することもできる．
@@ -34,11 +34,11 @@
 
     * - Block
       - Description
-	* - .. image:: img/block_ref/uma_filtergenerator_bgrtogray.png
+	* - .. image:: img/block_ref/filter/uma_filtergenerator_bgrtogray.png
 	  - カラー画像をGrayScale画像に変換する。
 
 ```
-![txt](img/block_ref/uma_filtergenerator_grayscaleio.png)
+![txt](img/block_ref/filter/uma_filtergenerator_grayscaleio.png)
 
 
 ### Threshold Filter Block
@@ -49,11 +49,11 @@
 
     * - Block
       - Description
-	* - .. image:: img/block_ref/uma_filtergenerator_threshold.png
+	* - .. image:: img/block_ref/filter/uma_filtergenerator_threshold.png
 	  - GrayScale画像を色の明暗によって白黒画像に変換する。明暗の度合いは右側の数値を変更できる。
 
 ```
-![txt](img/block_ref/uma_filtergenerator_thresholdio.png)
+![txt](img/block_ref/filter/uma_filtergenerator_thresholdio.png)
 
 
 ### Blur Filter Block
@@ -64,11 +64,11 @@
 
     * - Block
       - Description
-	* - .. image:: img/block_ref/uma_filtergenerator_blur.png
+	* - .. image:: img/block_ref/filter/uma_filtergenerator_blur.png
 	  - 入力された画像をブロック右側の数値の程度によりぼかすフィルタ。
 
 ```
-![txt](img/block_ref/uma_filtergenerator_blurio.png)
+![txt](img/block_ref/filter/uma_filtergenerator_blurio.png)
 
 
 ### Median Filter Block
@@ -79,11 +79,11 @@
 
     * - Block
       - Description
-	* - .. image:: img/block_ref/uma_filtergenerator_median.png
+	* - .. image:: img/block_ref/filter/uma_filtergenerator_median.png
 	  - 入力された画像をブロック右側の数値の程度によりぼかすフィルタ。
 
 ```
-![txt](img/block_ref/uma_filtergenerator_medianio.png)
+![txt](img/block_ref/filter/uma_filtergenerator_medianio.png)
 
 
 ### CircleSelection Filter Block
@@ -94,11 +94,11 @@
 
     * - Block
       - Description
-	* - .. image:: img/block_ref/uma_filtergenerator_ellipseRegionSelectoion.png
+	* - .. image:: img/block_ref/filter/uma_filtergenerator_ellipseRegionSelectoion.png
       - 入力された画像を円形にトリミングする。
 
 ```
-![txt](img/block_ref/uma_filtergenerator_check_circleio.png)
+![txt](img/block_ref/filter/uma_filtergenerator_check_circleio.png)
 
 
 ### RectangleSelection Filter Block
@@ -109,11 +109,11 @@
 
     * - Block
       - Description
-	* - .. image:: img/block_ref/uma_filtergenerator_rectangle.png
+	* - .. image:: img/block_ref/filter/uma_filtergenerator_rectangle.png
 	  - 入力された画像を四角形にトリミングする。
 
 ```
-![txt](img/block_ref/uma_filtergenerator_check_circleio.png)
+![txt](img/block_ref/filter/uma_filtergenerator_check_circleio.png)
 
 ### PolySelection Filter Block
 
@@ -123,11 +123,11 @@
 
     * - Block
       - Description
-	* - .. image:: img/block_ref/uma_filtergenerator_poly.png
+	* - .. image:: img/block_ref/filter/uma_filtergenerator_poly.png
 	  - 入力された画像を任意の形にトリミングする。 <---- 任意ではない(修正
 
 ```
-![txt](img/block_ref/uma_filtergenerator_polySelectionio.png)
+![txt](img/block_ref/filter/uma_filtergenerator_polySelectionio.png)
 
 
 ## Mask Image
