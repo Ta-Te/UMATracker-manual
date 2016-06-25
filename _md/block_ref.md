@@ -2,6 +2,31 @@
 
 ## I/O
 
+### Input Block
+
+```eval_rst
+.. list-table:: Input Block
+    :header-rows: 1
+
+    * - Block
+      - Description
+    * - .. image:: img/block_ref/IO/uma_filtergenerator_input.png
+      - FilterGeneratorに読み込ませた画像を出力する。動画であれば、現在表示中の1Frameの画像を出力する。
+```
+
+### Output Block
+
+```eval_rst
+.. list-table:: Output Block
+    :header-rows: 1
+
+    * - Block
+      - Description
+    * - .. image:: img/block_ref/IO/uma_filtergenerator_output.png
+      - 入力された画像を、"フィルタを掛けた後の画像"へ出力する。
+```
+
+
 ## BGR Image
 
 ## Filters
