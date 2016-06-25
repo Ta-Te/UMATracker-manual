@@ -319,3 +319,28 @@
 
 
 ## Variables
+### SetVariable Block
+
+```eval_rst
+.. list-table:: SetVariable Block
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/variables/uma_filtergenerator_setvariable.png
+	  - 入力したブロックを変数に格納するブロック。変数の名前は左側のitemから変更できる。
+
+```
+### Closing Filter Block
+
+```eval_rst
+.. list-table:: Closing Filter
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/variables/uma_filtergenerator_out.png
+	  - 格納した変数を出力するブロック。どの変数にするかは変更可能。
+
+```
+![txt](img/block_ref/variables/uma_filtergenerator_variablesio.png)
