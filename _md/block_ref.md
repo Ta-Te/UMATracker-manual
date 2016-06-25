@@ -65,6 +65,9 @@
 ```
 ![txt](img/block_ref/filter/uma_filtergenerator_grayscaleio.png)
 
+```eval_rst
+.. youtube:: https://www.youtube.com/watch?v=PWU-oIr0-w0
+```
 
 ### Threshold Filter Block
 
@@ -79,6 +82,25 @@
 
 ```
 ![txt](img/block_ref/filter/uma_filtergenerator_thresholdio.png)
+```eval_rst
+.. youtube:: https://www.youtube.com/watch?v=Z86yvoGQwNA
+```
+
+### ColorInverse Filter Block
+
+```eval_rst
+.. list-table:: ColorInverse Filter
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/filter/uma_filtergenerator_colorInverse.png
+	  - GrayScale画像が入力された場合、白色に近い色は、黒色に近い色に変化し、黒色に近い色は、白色に近い色に変換される。
+```
+![txt](img/block_ref/filter/uma_filtergenerator_colorinverseio.png)
+```eval_rst
+.. youtube:: https://www.youtube.com/watch?v=_r1P25_Skcc
+```
 
 
 ### Blur Filter Block
@@ -124,6 +146,9 @@
 
 ```
 ![txt](img/block_ref/filter/uma_filtergenerator_check_circleio.png)
+```eval_rst
+.. youtube:: https://www.youtube.com/watch?v=fqht_bxmx3s
+```
 
 
 ### RectangleSelection Filter Block
@@ -139,6 +164,9 @@
 
 ```
 ![txt](img/block_ref/filter/uma_filtergenerator_check_circleio.png)
+```eval_rst
+.. youtube:: https://www.youtube.com/watch?v=NRFRUSzR6xk
+```
 
 ### PolySelection Filter Block
 
