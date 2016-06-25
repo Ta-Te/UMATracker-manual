@@ -184,6 +184,21 @@
 
 
 ## Mask Image
+### Circle Mask Block
+
+```eval_rst
+.. list-table:: CircleMaskBlock
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/mask/uma_filtergenerator_circle.png
+	  - 白い円形の画像を出力するブロック
+
+```
+![txt](img/block_ref/mask/uma_filtergenerator_circleio.png)
+
+
 
 ## Operator
 
