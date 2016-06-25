@@ -71,6 +71,20 @@
 ![txt](img/block_ref/uma_filtergenerator_blurio.png)
 
 
+### Median Filter Block
+
+```eval_rst
+.. list-table:: Median Filter
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/uma_filtergenerator_median.png
+	  - 入力された画像をブロック右側の数値の程度によりぼかすフィルタ。
+
+```
+![txt](img/block_ref/uma_filtergenerator_medianio.png)
+
 
 
 ## Mask Image
