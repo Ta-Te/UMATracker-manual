@@ -28,6 +28,17 @@
 
 
 ## BGR Image
+### AbsDiff Block
+
+```eval_rst
+.. list-table:: AbsDiff Block
+    :header-rows: 1
+
+    * - Block
+      - Description
+    * - .. image:: img/block_ref/BGRImage/uma_filtergenerator_absdiff.png
+      - 
+```
 
 ## Filters
 ### Color Filter Block
