@@ -163,6 +163,35 @@
 ```
 ![txt](img/block_ref/morphology/uma_filtergenerator_dilationio.png)
 
+### Opening Filter Block
+
+```eval_rst
+.. list-table:: Opening Filter
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/morphology/uma_filtergenerator_opening.png
+	  - AAA
+
+```
+![txt](img/block_ref/morphology/uma_filtergenerator_openingio.png)
+
+
+### Closing Filter Block
+
+```eval_rst
+.. list-table:: Closing Filter
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/morphology/uma_filtergenerator_closing.png
+	  - AAA
+
+```
+![txt](img/block_ref/morphology/uma_filtergenerator_closingio.png)
+
 
 
 ## Variables
