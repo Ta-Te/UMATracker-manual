@@ -56,6 +56,19 @@
 ![txt](img/block_ref/uma_filtergenerator_thresholdio.png)
 
 
+### Blur Filter Block
+
+```eval_rst
+.. list-table:: Blur Filter
+    :header-rows: 1
+
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/uma_filtergenerator_blur.png
+	  - 入力された画像をブロック右側の数値の程度によりぼかすフィルタ。
+
+```
+![txt](img/block_ref/uma_filtergenerator_blurio.png)
 
 
 
