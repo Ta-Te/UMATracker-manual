@@ -115,10 +115,19 @@
 ```
 ![txt](img/block_ref/uma_filtergenerator_check_circleio.png)
 
+### PolySelection Filter Block
 
+```eval_rst
+.. list-table:: PolySelection Filter
+    :header-rows: 1
 
+    * - Block
+      - Description
+	* - .. image:: img/block_ref/uma_filtergenerator_poly.png
+	  - 入力された画像を任意の形にトリミングする。 <---- 任意ではない(修正
 
-
+```
+![txt](img/block_ref/uma_filtergenerator_polySelectionio.png)
 
 
 ## Mask Image
